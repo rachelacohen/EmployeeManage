@@ -21,6 +21,8 @@ const Header = () => {
       <Button variant="contained" color="secondary" style={{marginRight:'2vw'}} onClick={()=>toLogin()}>כניסה</Button>
       <Button variant="contained" color="secondary" style={{marginRight:'2vw'}} onClick={()=>toAll()}>לכל העובדים</Button>
       <Button variant="contained" color="secondary" style={{marginRight:'2vw'}} onClick={()=>toAdd()}>הוספת עובד</Button>
+      <Button variant="contained" color="secondary" style={{marginRight:'2vw'}} onClick={()=>{localStorage.setItem("user", "false"), navigate('/'), window.location.reload()}}>התנתקות</Button>
+   
     </div>  
   )
 }

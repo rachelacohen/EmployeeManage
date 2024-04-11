@@ -7,7 +7,6 @@ import { useNavigate } from "react-router-dom";
 import './AllEmployees.css'
 import Header from "../Header";
 import Send from "./Send";
-import Swal from 'sweetalert2';
 
 const AllEmployee = () => {
 

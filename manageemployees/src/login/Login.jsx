@@ -39,6 +39,7 @@ const Login=()=>{
         //     timer: 2000
         // });
           console.log(err)
+          localStorage.setItem('user', "false")
         })
     }
 
