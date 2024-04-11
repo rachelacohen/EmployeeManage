@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.EmployeeRoll.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE41629-B969-4A58-B514-8D7A8B2B667D}|Solid\\Solid.Data.csproj|c:\\users\\user1\\desktop\\manage employee\\manageserver\\solid\\migrations\\20240331200209_rolltorole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE41629-B969-4A58-B514-8D7A8B2B667D}|Solid\\Solid.Data.csproj|solutionrelative:solid\\migrations\\20240331200209_rolltorole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\models\\employeerolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\models\\employeerolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ABB030-06B9-404B-96AF-BAB638E59805}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\solid.core\\dtos\\employeerolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ABB030-06B9-404B-96AF-BAB638E59805}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\employeerolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\mapping\\mappimgprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\mapping\\mappimgprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ABB030-06B9-404B-96AF-BAB638E59805}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\solid.core\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ABB030-06B9-404B-96AF-BAB638E59805}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\models\\loginpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\models\\loginpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF37E51-7BAB-41A4-B09C-97986E9EDD74}|Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF37E51-7BAB-41A4-B09C-97986E9EDD74}|Service\\Solid.Service.csproj|solutionrelative:service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\manageserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\manageserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ECE359C-7D28-4DA7-A22D-02C51DD1529B}|manageServer\\manageServer.csproj|solutionrelative:manageserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.EmployeeRoll [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/sample_db/True/SqlTable/dbo.EmployeeRoll.sql",
+              "ToolTip": "dbo.EmployeeRoll [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-31T20:03:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240331200209_rollToRole.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid\\Migrations\\20240331200209_rollToRole.cs",
+              "RelativeDocumentMoniker": "Solid\\Migrations\\20240331200209_rollToRole.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid\\Migrations\\20240331200209_rollToRole.cs",
+              "RelativeToolTip": "Solid\\Migrations\\20240331200209_rollToRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:02:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRolePostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Models\\EmployeeRolePostModel.cs",
+              "RelativeDocumentMoniker": "manageServer\\Models\\EmployeeRolePostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Models\\EmployeeRolePostModel.cs",
+              "RelativeToolTip": "manageServer\\Models\\EmployeeRolePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:56:10.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRollDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid.Core\\DTOs\\EmployeeRollDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\EmployeeRollDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid.Core\\DTOs\\EmployeeRollDto.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\EmployeeRollDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:54:06.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappimgProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Mapping\\MappimgProfile.cs",
+              "RelativeDocumentMoniker": "manageServer\\Mapping\\MappimgProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Mapping\\MappimgProfile.cs",
+              "RelativeToolTip": "manageServer\\Mapping\\MappimgProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:51:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid.Core\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Solid.Core\\Entities\\Login.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:49:13.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\EmployeeService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:30:45.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "manageServer\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "manageServer\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:19:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "manageServer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "manageServer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:25:21.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Models\\LoginPostModel.cs",
+              "RelativeDocumentMoniker": "manageServer\\Models\\LoginPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Models\\LoginPostModel.cs",
+              "RelativeToolTip": "manageServer\\Models\\LoginPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:17:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "manageServer\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "manageServer\\Controllers\\AuthController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:14:35.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\appsettings.json",
+              "RelativeDocumentMoniker": "manageServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\appsettings.json",
+              "RelativeToolTip": "manageServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T18:08:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Program.cs",
+              "RelativeDocumentMoniker": "manageServer\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\Program.cs",
+              "RelativeToolTip": "manageServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:02:20.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "manageServer",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\manageServer.csproj",
+              "RelativeDocumentMoniker": "manageServer\\manageServer.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\manage employee\\manageServer\\manageServer\\manageServer.csproj",
+              "RelativeToolTip": "manageServer\\manageServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T17:59:52.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
