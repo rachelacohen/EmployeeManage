@@ -172,7 +172,7 @@ const AllEmployee = () => {
                         </IconButton>
                       </Tooltip>
                       <Tooltip title="מחיקה">
-                        <IconButton aria-label="delete" onClick={() => delete1(employee)} disabled={!localStorage.getItem('user') != "true"}>
+                        <IconButton aria-label="delete" onClick={() => delete1(employee)} disabled={localStorage.getItem('user') != "true"}>
                           <Delete color="error" />
                         </IconButton>
                       </Tooltip>
