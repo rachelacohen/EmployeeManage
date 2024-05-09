@@ -40,7 +40,7 @@ namespace manageServer.Controllers
         }
 
         //  POST api/<DriverController>
-        [Authorize]
+        //[Authorize]
         [HttpPost]
         public async Task<ActionResult<Employee>> PostAsync([FromBody] EmployeePostModel e)
         {
@@ -61,7 +61,7 @@ namespace manageServer.Controllers
             }
 
         }
-        [Authorize]
+        //[Authorize]
 
         [HttpPut("{id}")]
 
@@ -87,7 +87,7 @@ namespace manageServer.Controllers
             }
 
         }
-        [Authorize]
+        //[Authorize]
         [HttpDelete("{id}")]
         public async Task<ActionResult<Employee>> Delete(int id)
         {

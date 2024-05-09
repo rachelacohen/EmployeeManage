@@ -12,7 +12,7 @@ namespace manageServer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class RoleController : ControllerBase
     {
         private readonly IRoleService _roleService;
